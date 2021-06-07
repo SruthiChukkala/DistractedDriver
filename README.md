@@ -16,5 +16,5 @@ Dataset is can be downloaded from [kaggle](https://www.kaggle.com/c/state-farm-d
 Further information on downlaoding from [here](https://www.kaggle.com/docs/api)
 ### References
 
-DataTurks: Data Annotations Made Super Easy. “[Understanding SVMs’: For Image Classification](https://medium.com/@dataturks/understanding-svms-for-image-classification-cf4f01232700).” medium.
-Satya Naren Pachigolla. “[Distracted Driver Detection using Deep Learning.](https://towardsdatascience.com/distracted-driver-detection-using-deep-learning-e893715e02a4)” towardsdatascience.
+- DataTurks: Data Annotations Made Super Easy. “[Understanding SVMs’: For Image Classification](https://medium.com/@dataturks/understanding-svms-for-image-classification-cf4f01232700).” medium.
+- Satya Naren Pachigolla. “[Distracted Driver Detection using Deep Learning.](https://towardsdatascience.com/distracted-driver-detection-using-deep-learning-e893715e02a4)” towardsdatascience.
