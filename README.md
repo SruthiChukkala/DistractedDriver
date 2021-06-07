@@ -13,7 +13,7 @@ Dataset is can be downloaded from [kaggle](https://www.kaggle.com/c/state-farm-d
 ```
 ! kaggle competitions download -c state-farm-distracted-driver-detection
 ```
-Further information on downlaoding from [here](https://www.kaggle.com/docs/api)
+Further information on downloading from kaggle can be obtained from [here](https://www.kaggle.com/docs/api)
 ### References
 
 - DataTurks: Data Annotations Made Super Easy. “[Understanding SVMs’: For Image Classification](https://medium.com/@dataturks/understanding-svms-for-image-classification-cf4f01232700).” medium.
