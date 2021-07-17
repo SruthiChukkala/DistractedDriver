@@ -1,12 +1,12 @@
 # Distracted Driver 
 ### Team members
 
-- Mouni Preetham Malyala EE18B019
-- B Midhun Varman EE18B113
-- Dola Akhila Datta EE18B131
+- Mouni Preetham Malyala (EE18B019)
+- B Midhun Varman (EE18B113)
+- Dola Akhila Datta (EE18B131)
 
 ### Description
-This project was done as a part of EE5180 Machine Learning Course(Spring 2021) at IITM.
+This project was done as a part of EE5180 Machine Learning Course (Spring 2021) at IITM.
 
 ### Dataset
 Dataset is can be downloaded from [kaggle](https://www.kaggle.com/c/state-farm-distracted-driver-detection)
