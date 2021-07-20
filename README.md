@@ -7,15 +7,17 @@
 
 ### Description
 This project was done as a part of EE5180 Machine Learning Course(Spring 2021) at IITM. <br />
-Submission Details: Private score is 0.23462 and the expected rank is 115. 
-Submission’s rank would be 115 (calculated
-based on my private score given by Kaggle), if we would have submitted our predictions during
-the active phase of this competition.  <br />
+
 We Developed a Machine Learning Model (We used the state-of-the-art model - CNN ) to classify a driver image into
 10 pre-defined categories, where the first category is Safe driving and other categories involve some specific kind of
 common distraction activities like texting, talking on phone etc. <br />
 We used Transfer learning to greatly improve training time and accuracy using pre-trained models such as VGG-16,
 ResNet-50 and MobileNET to achieve an accuracy of 92.68% and a log-loss of 0.23462.  <br />
+
+Submission Details: Private score is 0.23462 and the expected rank is 115. 
+Submission’s rank would be 115 (calculated
+based on my private score given by Kaggle), if we would have submitted our predictions during
+the active phase of this competition.  <br />
 
 ### Dataset
 Dataset is can be downloaded from [kaggle](https://www.kaggle.com/c/state-farm-distracted-driver-detection)
