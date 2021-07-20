@@ -1,4 +1,4 @@
-# Distracted Driver 
+# Distracted Driver Detection
 ### Team members
 
 - Mouni Preetham Malyala EE18B019
