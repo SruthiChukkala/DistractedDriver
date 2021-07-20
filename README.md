@@ -6,7 +6,7 @@
 - Dola Akhila Datta (EE18B131)
 
 ### Description
-This project was done as a part of EE5180 Machine Learning Course (Spring 2021) at IITM.
+This project was done as a part of EE5180 Machine Learning Course (Spring 2021) at IITM. We would have obtained rank 115 ( according to the private score ) if we had submitted during the active phase of the competitition as we obtained a Private score of 0.23462.
 
 ### Dataset
 Dataset is can be downloaded from [kaggle](https://www.kaggle.com/c/state-farm-distracted-driver-detection)
