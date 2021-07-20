@@ -1,21 +1,21 @@
-# Distracted Driver 
-### Team members
-
-- Mouni Preetham Malyala (EE18B019)
-- B Midhun Varman (EE18B113)
-- Dola Akhila Datta (EE18B131)
-
+# DESIGNING A RECOMMENDATION SYSTEM BASED ON PURCHASE DATA
 ### Description
-This project was done as a part of EE5180 Machine Learning Course (Spring 2021) at IITM. We would have obtained rank 115 (according to the private score) if we had submitted during the active phase of the competitition, as we obtained a Private score of 0.23462.
+This project was done as a part of Hackathon 2 conducted by Univ.ai.
+I build a recommendation system based on purchase data of users being shared in the form of a dataset. I used
+methods like Matrix Factorization, Collaborative filtering etc. to build a Recommendation system.
 
 ### Dataset
-Dataset is can be downloaded from [kaggle](https://www.kaggle.com/c/state-farm-distracted-driver-detection)
-```
-! kaggle competitions download -c state-farm-distracted-driver-detection
-```
-Further information on downloading from kaggle can be obtained from [here](https://www.kaggle.com/docs/api)
+Dataset is provided by the Hackathon organiser Univ.ai. Dataset contains past - purchase data of users.
+The Datasets can be downloaded from https://hack.univ.ai/problem/data
 
-### References
+Training Data:
+This file contains the detailed purchasing history for every user. It has order value and the category of the product.
 
-- DataTurks: Data Annotations Made Super Easy. “[Understanding SVMs’: For Image Classification](https://medium.com/@dataturks/understanding-svms-for-image-classification-cf4f01232700).” medium.
-- Satya Naren Pachigolla. “[Distracted Driver Detection using Deep Learning.](https://towardsdatascience.com/distracted-driver-detection-using-deep-learning-e893715e02a4)” towardsdatascience.
+Training Data Target:
+This file contains data for some users about the category of items they bought in future.
+
+Test Data:
+This file contains the detailed purchasing history for some users. It has the order value and the category of the product. You have to predict the top 3 categories that the users with these user_ids will purchase from in the future.
+
+### Goal of the Project / Problem statement of the Hackathon
+For each user, predict the top 3 probable product categories that they may purchase from, in the future.
