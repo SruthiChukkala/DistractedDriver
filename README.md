@@ -6,7 +6,7 @@
 - Dola Akhila Datta EE18B131
 
 ### Description
-This project was done as a part of EE5180 Machine Learning Course(Spring 2021) at IITM. 
+This project was done as a part of EE5180 Machine Learning Course(Spring 2021) at IITM. <br />
 Submission Details: Private score is 0.23462 and the expected rank is 115. 
 Submission’s rank would be 115 (calculated
 based on my private score given by Kaggle), if we would have submitted our predictions during
